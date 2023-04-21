@@ -1,3 +1,34 @@
+# Spring boot
+- Spring Boot란 무엇인가요?
+- Spring Boot를 사용해야 하는 이유는 무엇인가요?
+- Spring Boot에서 사용되는 IOC 컨테이너는 어떤 것이며, 어떻게 동작하나요?
+- Spring Boot에서 AOP를 사용할 때, Aspect를 구현하는 방법에 대해 설명해주세요.
+- Spring Boot에서 Rest API를 구현하는 방법에 대해 설명해주세요.
+- Spring Boot에서 ORM 프레임워크를 사용할 때, 어떤 것을 사용하는 것이 좋은가요?
+- Spring Boot에서 보안을 구현하는 방법에 대해 설명해주세요.
+- Spring Boot에서 테스트 코드를 작성하는 방법에 대해 설명해주세요.
+- Spring Boot에서 사용되는 설정 파일의 종류와 각각의 역할에 대해 설명해주세요.
+- Spring Boot에서 사용되는 빌드 도구는 무엇이며, 어떻게 동작하나요?
+- Spring Boot에서 사용되는 어노테이션에 대해 설명해주세요.
+- Spring Boot에서 트랜잭션 처리를 하는 방법에 대해 설명해주세요.
+- Spring Boot에서 사용되는 Cache에 대해 설명해주세요.
+- Spring Boot에서 사용되는 프로파일(Profile)에 대해 설명해주세요.
+- Spring Boot에서 메시징 처리를 하는 방법에 대해 설명해주세요.
+- Spring Boot에서 사용되는 배치 처리에 대해 설명해주세요.
+- Spring Boot에서 테스트 코드 작성 시 Mock 객체를 사용하는 이유는 무엇인가요?
+- Spring Boot에서 사용되는 검증(Validation) 처리에 대해 설명해주세요.
+- Spring Boot에서 보안 처리 시 CSRF 방어 기능을 사용하는 이유는 무엇인가요?
+- Spring Boot에서 사용되는 Actuator에 대해 설명해주세요.
+- Spring Boot에서 사용되는 리액티브 프로그래밍에 대해 설명해주세요.
+- Spring Boot에서 사용되는 마이크로서비스 아키텍처에 대해 설명해주세요.
+- Spring Boot에서 JPA를 사용할 때 지연 로딩과 즉시 로딩의 차이점은 무엇인가요?
+- Spring Boot에서 RESTful API를 구현할 때, HTTP 메소드의 종류와 각각의 역할에 대해 설명해주세요.
+- Spring Boot에서 사용되는 캐시(Cache)의 종류와 각각의 특징에 대해 설명해주세요.
+- Spring Boot에서 사용되는 스프링 시큐리티(Spring Security)의 주요 기능과 역할에 대해 설명해주세요.
+- Spring Boot에서 AOP를 사용할 때 Pointcut과 Advice의 차이점은 무엇인가요?
+- Spring Boot에서 사용되는 의존성 주입(Dependency Injection)의 장점과 원리에 대해 설명해주세요.
+- Spring Boot에서 사용되는 스프링 배치(Spring Batch)의 주요 기능과 역할에 대해 설명해주세요.
+- Spring Boot에서 사용되는 스프링 데이터(Spring Data)의 주요 기능과 역할에 대해 설명해주세요.
 # 운영 체제
 - 운영 체제란 무엇인가요?
 - 운영 체제의 역할은 무엇인가요?
